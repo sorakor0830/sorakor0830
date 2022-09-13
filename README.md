@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sorakor0830
 - 👀 I’m interested in built something up
 - 🌱 I’m currently learning js & aws
-- 💞️ I’m looking to collaborate on doing some web applization
+- 💞️ I’m looking to collaborate on doing some web applications
 - 📫 How to reach me ... [here](https://github.com/sorakor0830)
 
 <!---
